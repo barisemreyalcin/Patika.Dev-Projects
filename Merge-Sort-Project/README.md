@@ -14,4 +14,4 @@
 
                                 [8,11,12,16,21,22]  
 ## Big O Notation:  
-Yarıya düşerek devam ettiği için ve de (n-1) adım sürdüğü için: **O(n.logn)**
+Yarıya düşerek devam ettiği için ve de "n" adım sürdüğü için: **O(n.logn)**
