@@ -3,7 +3,7 @@
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary Search Tree aşamaları aşağıda verilmiştir.
 
 ## Steps:
-Ana mantığımız; ağaçta büyükler root'un sağına, küçükler ise soluna atılıtr.
+Ana mantığımız; ağaçta büyükler root'un sağına, küçükler ise soluna atılır.
 Root = 7 alalım.
 
 ### Step 1:
